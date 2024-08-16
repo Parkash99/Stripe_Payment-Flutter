@@ -8,6 +8,6 @@ This is a simple Flutter application that integrates Stripe for handling payment
 - **Checkout**: Proceed to checkout and complete the payment using Stripe.
 - **Payment Confirmation**: Display a success or failure message based on the payment outcome.
 
-Run Server first:
+Run server first:
 ```bash
 node server.js
